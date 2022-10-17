@@ -1,8 +1,8 @@
-# Acamp iOS Exercise
+# Acamp iOS Technical Assessment
 
 In this repository you can find the instructions for the Acamp iOS Technical Assessment. 
 
-# About the project
+## About the project
 You are expected to create a small map-based application that has 3 main features:
 
 
@@ -13,7 +13,7 @@ You are expected to create a small map-based application that has 3 main feature
 `3` Show more detailed information about the location after the user clicks on the card.
 
 
-# References
+## References
 You can take the Acamp app itself as a reference.
 
 
@@ -30,16 +30,16 @@ This is an example for feature `3`:
 ![IMG_3560](https://user-images.githubusercontent.com/5455594/196179122-de26ee5a-3762-4480-ae8f-eb9caf38c790.jpg)
 
 
-# General instructions
+## General instructions
 - Use Swift in your implementation
 - Feel free to use any library/framework you need to implement your project
 - Use the file `places.json` from this repository as a data source for your places to be plotted on the map. This json has several information from places, so use your judgment to decide which information to use for features `2` and `3`
 - For feature ´2´, you can decide to either use native UI elements or build your own custom map card
 - The asthetics and UI of your app will be considered secondary on this exercise, but you will gain extra points the nicer your app looks and the more realistic the end result becomes
 
-# How to share your code
+## How to share your code
 You can choose between hosting your project on your own Github or send us your project in a zip file to the email `thiago@acamp.com`.
 
-# About the timeline
+## About the timeline
 You can decide how long it will take you to complete the project. Just let us know before hand when we can expect your code.
 
